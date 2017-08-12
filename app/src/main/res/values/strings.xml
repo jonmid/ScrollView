@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="str_1">Seleccionar Item 1</string>
+    <string name="str_2">Seleccionar Item 2</string>
+    <string name="str_3">Seleccionar Item 3</string>
+    <string name="str_4">Seleccionar Item 4</string>
+    <string name="str_5">Seleccionar Item 5</string>
+    <string name="str_6">Seleccionar Item 6</string>
+    <string name="str_7">Seleccionar Item 7</string>
+    <string name="str_8">Seleccionar Item 8</string>
+    <string name="str_9">Seleccionar Item 9</string>
+    <string name="str_10">Seleccionar Item 10</string>
+    <string name="str_11">Seleccionar Item 11</string>
+    <string name="str_12">Seleccionar Item 12</string>
+    <string name="str_13">Seleccionar Item 13</string>
+    <string name="str_14">Seleccionar Item 14</string>
+    <string name="str_15">Seleccionar Item 15</string>
+    <string name="str_16">Seleccionar Item 16</string>
+    <string name="str_17">Seleccionar Item 17</string>
+    <string name="str_18">Seleccionar Item 18</string>
+    <string name="str_19">Seleccionar Item 19</string>
+    <string name="str_20">Seleccionar Item 20</string>
+</resources>
